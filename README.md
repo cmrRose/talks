@@ -25,7 +25,7 @@ Maptime Madison
 
 October 5, 2016  |  Memorial Union, Madison, Wisconsin 
 
-slides: 
+slides: https://github.com/cmrRose/talks/blob/master/MapTime-Madison-Sculptural-Maps.pdf
 
 --- 
 
