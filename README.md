@@ -6,7 +6,7 @@ Digital Mapping Techniques Conference
 
 May 19-22, 2019  |  Butte, Montana
 
-slides:  https://github.com/wgnhs/gems/blob/master/DMT2019-Moving-Maps-to-GeMS.pdf
+slides:  https://github.com/wgnhs/gems/blob/master/DMT2019-Moving-Maps-to-GeMS.pdf  
 resources: https://github.com/wgnhs/gems
 
 ---
