@@ -2,7 +2,7 @@
 slides and other materials related to talks that I have given
 
 ### "Moving Maps to GeMS" 
-Digital Mapping Techniques Conference 
+Digital Mapping Techniques (DMT) Conference 
 
 May 19-22, 2019  |  Butte, Montana
 
@@ -11,8 +11,8 @@ resources: https://github.com/wgnhs/gems
 
 ---
 
-### WLIA 2018: "Designing for Scientists"
-Wisconsin Land Information Association Annual Conference 
+### "Designing for Scientists"
+Wisconsin Land Information Association (WLIA) Annual Conference 
 
 March 7–9, 2018 | Elkhart Lake, Wisconsin 
 
