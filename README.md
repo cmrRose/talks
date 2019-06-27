@@ -12,7 +12,7 @@ resources: https://github.com/wgnhs/gems
 ---
 
 ### "Designing for Scientists"
-Wisconsin Land Information Association (WLIA) Annual Conference 
+Wisconsin Land Information Association (WLIA) Annual Meeting  
 
 March 7–9, 2018 | Elkhart Lake, Wisconsin 
 
