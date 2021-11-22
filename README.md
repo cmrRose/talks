@@ -1,5 +1,17 @@
 
-slides and other materials related to talks that I have given
+slides and other materials related to talks that I have given: 
+
+### "Moving Maps to GeMS, part 2" 
+Digital Mapping Techniques (DMT) Conference 
+
+June 2020 | Virtual 
+
+slides: https://github.com/wgnhs/gems/blob/master/DMT2020-Moving-Maps-to-GeMS-Part2.pdf
+script: https://github.com/wgnhs/gems/blob/master/DMT2020-Script-Moving-Maps-to-GeMS-Part2.pdf
+
+
+
+---
 
 ### "Moving Maps to GeMS" 
 Digital Mapping Techniques (DMT) Conference 
@@ -7,6 +19,7 @@ Digital Mapping Techniques (DMT) Conference
 May 19-22, 2019  |  Butte, Montana
 
 slides:  https://github.com/wgnhs/gems/blob/master/DMT2019-Moving-Maps-to-GeMS.pdf  
+script: https://github.com/wgnhs/gems/blob/master/DMT2019-moving-maps-to-gems-script.pdf
 resources: https://github.com/wgnhs/gems
 
 ---
