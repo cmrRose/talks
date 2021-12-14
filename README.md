@@ -6,7 +6,7 @@ Digital Mapping Techniques (DMT) Lite
 
 Dec 2021 | Virtual 
 
-slides: 
+slides: https://github.com/cmrRose/talks/blob/master/Rose%20DMT%20Lite%20Dec%202021%20GeMS%20Documentation%20and%20Quad-G.pdf
 
 script: 
 
