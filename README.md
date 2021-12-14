@@ -1,6 +1,19 @@
 
 slides and other materials related to talks that I have given: 
 
+### "Quad-G: a tool for georeferencing quadrangle images, and GeMS resources available from the Wisconsin Survey" 
+Digital Mapping Techniques (DMT) Lite 
+
+Dec 2021 | Virtual 
+
+slides: 
+
+script: 
+
+
+
+---
+
 ### "Moving Maps to GeMS, part 2" 
 Digital Mapping Techniques (DMT) Conference 
 
