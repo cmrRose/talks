@@ -8,9 +8,7 @@ Dec 2021 | Virtual
 
 slides: https://github.com/cmrRose/talks/blob/master/Rose%20DMT%20Lite%20Dec%202021%20GeMS%20Documentation%20and%20Quad-G.pdf
 
-script: 
-
-Quad-G resources: 
+Quad-G resources: https://github.com/cmrRose/talks/blob/master/Quad-G-info-for-sharing.zip (find the 'download' button) 
 
 ---
 
