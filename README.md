@@ -10,7 +10,7 @@ slides:
 
 script: 
 
-
+Quad-G resources: 
 
 ---
 
