@@ -8,8 +8,6 @@ slides and other materials related to talks that I have given:
 
 March 2022 | Virtual for Johns Hopkins University
 
-slides: 
-
 video should eventually be posted to this playlist: https://www.youtube.com/playlist?list=PLy7voYCyj7jgPtqmMA2iane1jkVZT-1Sx 
 
 ---
