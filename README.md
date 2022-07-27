@@ -1,6 +1,18 @@
 
 slides and other materials related to talks that I have given: 
 
+
+---
+
+### GIS After Dark: College-to-Career in GIS & Cartography
+
+March 2022 | Virtual
+
+slides: 
+
+---
+
+
 ### "Quad-G: a tool for georeferencing quadrangle images, and GeMS resources available from the Wisconsin Survey" 
 Digital Mapping Techniques (DMT) Lite 
 
@@ -66,4 +78,4 @@ The Map Society of Wisconsin
 
 October 19, 2014  |  Milwaukee, Wisconsin 
 
-slides: 
+slides: https://github.com/cmrRose/talks/blob/master/MapSociety%20Presentation%20Oct%202014.pdf
