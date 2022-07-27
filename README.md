@@ -6,7 +6,7 @@ slides and other materials related to talks that I have given:
 
 ### GIS After Dark: College-to-Career in GIS & Cartography
 
-March 2022 | Virtual
+March 2022 | Virtual for Johns Hopkins University
 
 slides: 
 
